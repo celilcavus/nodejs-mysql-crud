@@ -1,0 +1,31 @@
+{
+ 
+  "name": "mysqlcrud",
+ 
+  "version": "1.0.0",
+ 
+  "main": "app.js",
+ 
+  "scripts": {
+ 
+   "start": "nodemon app.js",
+  "test": "echo \"Error: no test specified\" && exit 1"
+ 
+  },
+ 
+  "author": "",
+ 
+  "license": "ISC",
+ 
+  "description": "",
+ 
+  "dependencies": {
+ 
+   
+  "mysql2": "^3.1.2",
+ 
+   
+  "nodemon": "^2.0.20"
+ 
+  }
+}
